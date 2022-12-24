@@ -1,4 +1,5 @@
-# BlackJack Vite
+# Vitejack
+#### Un simple blackjack hecho en Javascript utilizando Vite
 
 Pasos para ejecutar proyecto:
 
